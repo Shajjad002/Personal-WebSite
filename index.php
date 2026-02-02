@@ -34,7 +34,7 @@
 					<div class="about-content">
 						<div class="row">
 							<div class="about-text">
-								<h3>I'm a Shariful Islam & <span>Web Devloper</span></h3>
+								<h3>I'm a Shariful Islam & <span>Full-Stack Developer</span></h3>
 								<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, totam aliquam. Saepe quo eius nihil ad, minus debitis reiciendis rerum nisi ex excepturi iure, blanditiis perferendis veniam suscipit libero in pariatur, explicabo incidunt velit nam laudantium quibusdam neque. Facere dignissimos culpa molestiae ipsum illum quis maxime. Blanditiis veniam recusandae perspiciatis? Optio iure modi illum molestiae?</p>
 							</div>
 						</div>
@@ -42,7 +42,7 @@
 							<div class="personal-info ">
 									<div class="row">
 										<div class="info-iteam">
-											<p>Birthday :	<span>07 Nov 1994</span></p>
+											<p>Birthday :	<span>15 FEB 1995</span></p>
 										</div>
 										<div class="info-iteam">
 											<p>website :	<span>www.shajjad007.xyz</span></p>
